@@ -1,0 +1,14 @@
+layout_spectrum: 0.47848437493667006
+typography_spectrum: 0.8957325622905046
+color:
+  brandStrength: 0.9891115685459226
+  lightness: 0.8136215705890208
+  saturation: 0.7305891157593578
+  rhythmicContrast: 0.5012129496317357
+  brandColors:
+    - '#96CA2D'
+    - '#B5E655'
+    - '#EDF7F2'
+    - '#4BB5C1'
+    - '#7FC6BC'
+name: muted psychosis
